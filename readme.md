@@ -1,1 +1,1 @@
-repo for testing out git GUI clients
+repo for evaluating git GUI clients
