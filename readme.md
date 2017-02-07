@@ -1,5 +1,6 @@
-repo for evaluating git GUI clients
+repo for figuring out the best git GUI client
 these
 are
-some
+a
+few
 words
