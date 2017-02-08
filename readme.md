@@ -5,6 +5,6 @@ a
 few
 words
 and 
-these are 
+there are 
 some
 other words
